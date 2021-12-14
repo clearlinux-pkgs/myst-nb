@@ -4,7 +4,7 @@
 #
 Name     : myst-nb
 Version  : 0.13.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/bc/5e/e641325a33d07cef3a1a0428a163ac95c5dbc0424c597becac38f1445cd9/myst-nb-0.13.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bc/5e/e641325a33d07cef3a1a0428a163ac95c5dbc0424c597becac38f1445cd9/myst-nb-0.13.1.tar.gz
 Summary  : A Jupyter Notebook Sphinx reader built on top of the MyST markdown parser.
